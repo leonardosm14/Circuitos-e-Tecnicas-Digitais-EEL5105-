@@ -3,7 +3,7 @@ use ieee.std_logic_1164.all;
 
 entity usertop is
 port( A, B, C, D: in std_logic;
-      W, X, Y, Z: out std_logic);
+      W, X, Y, Z: out std_logic );
 end usertop;
 
 architecture lgc of usertop is
